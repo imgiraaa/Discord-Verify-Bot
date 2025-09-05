@@ -1,0 +1,21 @@
+{
+  "name": "discord-verification-bot",
+  "version": "1.0.0",
+  "description": "Bot verifikasi canggih untuk server Discord.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.92",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

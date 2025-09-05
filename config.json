@@ -1,0 +1,15 @@
+{
+  "server_id_example": {
+    "channelId": "123456789012345678",
+    "messageId": "123456789012345678",
+    "title": "Verification bot v1.0",
+    "description": "Verification Bot Discord By Gira",
+    "verifiedRoleId": "123456789012345678",
+    "unverifiedRoleId": "123456789012345678",
+    "successMessage": "",
+    "errorMessage": "",
+    "rules": "",
+    "useCaptcha": true,
+    "captchaDifficulty": ""
+  }
+}
