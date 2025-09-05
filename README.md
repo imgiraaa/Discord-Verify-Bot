@@ -1,4 +1,4 @@
-# Proyek Bot Discord Verifikasi
+# Proyek Bot Discord Verifikasi Versi 1.0.
 
 Bot Discord untuk sistem verifikasi anggota dengan atau tanpa Captcha.
 
