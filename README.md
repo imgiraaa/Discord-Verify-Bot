@@ -1,6 +1,6 @@
 # Proyek Bot Discord Verifikasi
 
-Bot Discord canggih untuk sistem verifikasi anggota dengan atau tanpa Captcha.
+Bot Discord untuk sistem verifikasi anggota dengan atau tanpa Captcha.
 
 ## Fitur
 - Pengaturan verifikasi via Modal
